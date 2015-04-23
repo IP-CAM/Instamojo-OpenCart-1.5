@@ -23,28 +23,28 @@
 
           <tr>
             <td><?php echo $entry_text_instamojo_checkout_label; ?></td>
-            <td><input type="text" name="instamojo_checkout_label" value="<?php echo $instamojo_checkout_label; ?>"/></td>
+            <td><input type="text" size="100" name="instamojo_checkout_label" value="<?php echo $instamojo_checkout_label; ?>"/></td>
           </tr>
 
           <tr>
             <td><?php echo $entry_text_instamojo_api_key; ?></td>
-            <td><input type="text" name="instamojo_api_key" value="<?php echo $instamojo_api_key; ?>"/></td>
+            <td><input type="text" size="100" name="instamojo_api_key" value="<?php echo $instamojo_api_key; ?>"/></td>
           </tr>
           <tr>
             <td><?php echo $entry_text_instamojo_auth_token; ?></td>
-            <td><input type="text" name="instamojo_auth_token" value="<?php echo $instamojo_auth_token; ?>"/></td>
+            <td><input type="text" size="100" name="instamojo_auth_token" value="<?php echo $instamojo_auth_token; ?>"/></td>
           </tr>
           <tr>
             <td><?php echo $entry_text_instamojo_private_salt; ?></td>
-            <td><input type="text" name="instamojo_private_salt" value="<?php echo $instamojo_private_salt; ?>"/></td>
+            <td><input type="text" size="100" name="instamojo_private_salt" value="<?php echo $instamojo_private_salt; ?>"/></td>
           </tr>
           <tr>
             <td><?php echo $entry_text_instamojo_payment_link; ?></td>
-            <td><input type="text" name="instamojo_payment_link" value="<?php echo $instamojo_payment_link; ?>"/></td>
+            <td><input type="text" size="100" name="instamojo_payment_link" value="<?php echo $instamojo_payment_link; ?>"/></td>
           </tr>
           <tr>
             <td><?php echo $entry_text_instamojo_custom_field; ?></td>
-            <td><input type="text" name="instamojo_custom_field" value="<?php echo $instamojo_custom_field; ?>"/></td>
+            <td><input type="text" size="20" name="instamojo_custom_field" value="<?php echo $instamojo_custom_field; ?>"/></td>
           </tr>
            
           <tr>
