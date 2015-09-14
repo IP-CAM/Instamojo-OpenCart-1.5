@@ -22,6 +22,11 @@
           </tr>
 
           <tr>
+              <td><?php echo $entry_sort_order; ?></td>
+              <td><input type="text" name="instamojo_sort_order" value="<?php echo $instamojo_sort_order; ?>" size="5" /></td>
+          </tr>
+
+          <tr>
             <td><?php echo $entry_text_instamojo_checkout_label; ?></td>
             <td><input type="text" size="100" name="instamojo_checkout_label" value="<?php echo $instamojo_checkout_label; ?>"/></td>
           </tr>
