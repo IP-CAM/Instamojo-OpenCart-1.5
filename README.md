@@ -84,4 +84,4 @@ This module will everything to a file named **imojo.log** under **system/logs**.
 ### Support
 ---
 
-If you're facing some issue with plugin integration then open an ticke at http://support.instamojo.com/. Please do include a **screenshot of the settings** you've done for the plugin in your admin backend as well as the **URL of the Instamojo payment link** you're using with the plugin.
+If you're facing some issue with plugin integration then open an ticket at http://support.instamojo.com/. Please do include a **screenshot of the settings** you've done for the plugin in your admin backend as well as the **URL of the Instamojo payment link** you're using with the plugin.
