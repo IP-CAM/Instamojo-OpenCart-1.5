@@ -2,7 +2,7 @@
 
 ## Download:
 
-Download the latest release from the [releases section](https://github.com/Instamojo/Instamojo-OpenCart-1.5/releases) or download it from the [OpenCart Extensions website](http://www.opencart.com/index.php?route=extension/extension/info&extension_id=21984).
+Download the [latest release](https://github.com/Instamojo/Instamojo-OpenCart-1.5/releases/latest) from GitHub or download it from the [OpenCart Extensions website](http://www.opencart.com/index.php?route=extension/extension/info&extension_id=21984).
 
 ## Installation
 
